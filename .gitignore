@@ -1,0 +1,9 @@
+# Local Netlify folder
+.netlify
+node_modules
+bin
+npm-debug.log
+.nyc
+.env
+.DS_Store
+.vscode
